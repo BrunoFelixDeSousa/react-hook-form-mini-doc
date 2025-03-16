@@ -1,16 +1,16 @@
 # React Hook Form - Guia Completo
 
 ## Sumário
-- [Introdução](#introdução)
-- [Instalação](#instalação)
-- [Conceitos Básicos](#conceitos-básicos)
-- [Configuração com TypeScript](#configuração-com-typescript)
-- [Validação](#validação)
-- [Integração com Bibliotecas de UI](#integração-com-bibliotecas-de-ui)
-- [Formulários Complexos](#formulários-complexos)
-- [Integração com Zod](#integração-com-zod)
-- [Exemplos Práticos](#exemplos-práticos)
-- [Dicas e Melhores Práticas](#dicas-e-melhores-práticas)
+1. [Introdução](#1introdução)
+2. [Instalação](#instalação)
+3. [Conceitos Básicos](#conceitos-básicos)
+4. [Configuração com TypeScript](#configuração-com-typescript)
+5. [Validação](#validação)
+6. [Integração com Bibliotecas de UI](#integração-com-bibliotecas-de-ui)
+7. [Formulários Complexos](#formulários-complexos)
+8. [Integração com Zod](#integração-com-zod)
+9. [Exemplos Práticos](#exemplos-práticos)
+10. [Dicas e Melhores Práticas](#dicas-e-melhores-práticas)
 
 ## Introdução
 
